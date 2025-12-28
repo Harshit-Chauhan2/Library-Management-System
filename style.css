@@ -1,0 +1,24 @@
+body{
+    background: linear-gradient(135deg, #4e73df, #1cc88a);
+    min-height: 100vh;
+}
+.login-card{
+     border-radius: 15px;
+}
+.login-card .card-header{
+    border-radius: 15px 15px 0 0;
+}
+.form-control{
+    border-radius: 30px;
+    padding-left: 40px;
+}
+.input-icon{
+    position: absolute;
+    top: 50%;
+    left: 15px;
+    transform: translateY(-50%);
+    color: #6c757d;
+}
+.btn-login{
+    border-radius: 30px;
+}
